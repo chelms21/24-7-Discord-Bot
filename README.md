@@ -1,3 +1,3 @@
 # 24-7-Discord-Bot
 
-hi
+download package template to the right
